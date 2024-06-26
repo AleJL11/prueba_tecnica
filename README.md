@@ -16,8 +16,8 @@ Este proyecto es un ejemplo de una aplicación Laravel que utiliza PostgreSQL co
 Clona el repositorio en tu máquina local:
 
 ```sh
-git clone https://github.com/AleJL11/prueba_ks2.git
-cd prueba_ks2
+git clone https://github.com/AleJL11/prueba_tecnica.git
+cd prueba_tecnica
 
 ### 2. Instalar dependencias
 Instala las dependencias de PHP utilizando Composer:
